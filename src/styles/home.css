@@ -1,0 +1,23 @@
+.home_content {
+    width: 100%;
+    grid-area: content;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero{
+    width: 50%;
+    height: 60%;
+    border-radius: 10px;
+}
+
+.home_content div p{
+    margin-top: 2em;
+    width: 75%;
+    font-size: 1.3em;
+}
+header {
+    width: 100%;
+}
